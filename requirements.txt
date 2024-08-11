@@ -1,0 +1,7 @@
+datasets
+transformers
+torch
+torchvision
+opencv-python
+numpy
+PIL
